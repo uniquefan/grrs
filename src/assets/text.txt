@@ -1,0 +1,3 @@
+first line that does not pattern 
+line that has foo
+third line 
